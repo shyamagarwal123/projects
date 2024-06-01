@@ -1,7 +1,7 @@
-Objective:
+# Objective:
 Enhance business success through advanced data analysis.
 
-Tasks Accomplished:
+# Tasks Accomplished:
 
 1. Data integration into Power BI.
 2. Data cleansing in Power Query (eliminating nulls, duplicates, conditional columns).
@@ -10,7 +10,7 @@ Tasks Accomplished:
 5. Integration of Slicers to examine regional sales.
 6. Visualization using Area, Donut, and Stacked Bar Charts, along with cards.
 
-Insights Gained:
+# Insights Gained:
 
 1. Cash on Delivery (COD) is the primary payment mode driving sales.
 2. Customer segment contributes 48%, followed by corporate at 33%.
