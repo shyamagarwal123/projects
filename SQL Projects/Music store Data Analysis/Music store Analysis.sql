@@ -1,4 +1,4 @@
-
+# Music store data analysis SQL project
 create database music_db
 use music_db;
 
