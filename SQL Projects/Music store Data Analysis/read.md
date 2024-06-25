@@ -1,2 +1,2 @@
 # Music-Store-Data-Analysis-SQL-Project
-DATA ANALYSIS ON MUSIC STORE DATASET USING SQL 📊 :To foster the expansion of the Music Store, I've unearthed valuable insights from the dataset through the formulation of optimized SQL queries within the MS Sql Server framework
+This SQL endeavour delves into the realm of music through an extensive music store dataset. Through applying SQL queries, this project aims to offer insights into diverse facets of the music industry, encompassing sales analysis, customer behaviour, and genre preferences.
